@@ -7,8 +7,8 @@ This is a minimal docker image that eases setting up and maintaining your apt-ca
 ## Instructions
 
 ```bash
-$ git clone https://github.com/clue/docker-apt-cacher.git
-$ cd docker-psocksd
+$ git clone https://github.com/combro2k/docker-apt-cacher.git
+$ cd docker-apt-cacher
 $ sudo docker build -t apt-cacher .
 ```
 
